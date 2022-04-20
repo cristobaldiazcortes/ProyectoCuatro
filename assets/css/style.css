@@ -1,0 +1,77 @@
+body {
+    font-family: 'Roboto', sans-serif;  
+}
+a.navbar-brand.logo  {
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif; 
+    font-size: 2rem;
+    font-weight: bolder; 
+}
+.navbar-light .navbar-toggler {
+    color: #f8f9fa;
+    border-color: #f8f9fa;
+}
+.menu {
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 5%;
+}
+.row {
+    width: 95%;
+}
+.alienacion {
+    text-align: right;
+    padding-right: 6%;
+}
+.formulario {
+    text-align: center;
+    padding-bottom:4%;
+    align-items: center;
+}
+.margen {
+    margin-left: 0%;
+    display: flex;
+    justify-content: center;
+}
+p.card-text {
+    font-weight: 300;
+}
+.boton {
+    align-items: center;
+}
+.logo-negro {
+    width: 30%;
+}
+.copyright {
+    background-color: #ffffff;
+    text-align: center;
+}
+a {
+    margin-right: 30%;
+    padding-right: 30%;
+}
+.formulario {
+    background-color: #dc3545;
+    color: #f0ffff;
+}
+
+button.btn.btn-primary.btn-lg {
+    background-color: #ffa500;
+    border-color: #ffffff;
+}
+
+li.list-group-item {
+    text-align: right;
+    color: #ffa500;
+    font-family:'Roboto', sans-serif;  
+}
+::before {
+    color: #000000;
+    font-size:larger;
+}
+.formulario.text-center {
+    padding-top: 3%;
+}
+p.oferta {
+    font-weight: bold;
+}
